@@ -1,3 +1,6 @@
 [submodule "modules/test1"]
 	path = modules/test1
 	url = git@github-thaibug:thai-bug/test1.git
+[submodule "test1"]
+	path = test1
+	url = git@github-thaibug:thai-bug/test1.git
